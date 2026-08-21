@@ -71,8 +71,13 @@ Le fichier `data/mesures_capteurs.csv` contient des mesures de capteurs IoT avec
 - [x] **Partie 8** — Régression avec `lmplot()`
 - [x] **Partie 9** — Corrélations et `heatmap()`
 - [x] **Partie 10** — Analyse multivariée avec `pairplot()`
-- [ ] **Partie 11** — Sauvegarde des graphiques dans `exports/`
-- [ ] **Partie 12** — Bonus
+- [x] **Partie 11** — Sauvegarde des graphiques dans `exports/`
+- [x] **Partie 12** — Bonus
+
+### Contenu du Bonus (Partie 12)
+
+- **Analyse temporelle** : évolution de la température et de la consommation moyennes par heure de la journée (`lineplot()`), pour détecter un éventuel cycle horaire.
+- **État vs valeurs mesurées** : comparaison de la température et de la pression selon l'état du capteur (`OK` / `ALERTE` / `ERREUR`) avec `boxplot()`, pour évaluer si les dysfonctionnements sont liés à des conditions physiques anormales.
 
 ## Livrable
 
