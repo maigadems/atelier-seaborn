@@ -65,7 +65,7 @@ Le fichier `data/mesures_capteurs.csv` contient des mesures de capteurs IoT avec
 - [x] **Partie 2** — Distribution d'une variable avec `kdeplot()`
 - [x] **Partie 3** — Distribution d'une variable avec `boxplot()`
 - [x] **Partie 4** — Distribution d'une variable avec `violinplot()`
-- [ ] **Partie 5** — Comptage des catégories avec `countplot()`
+- [x] **Partie 5** — Comptage des catégories avec `countplot()`
 - [ ] **Partie 6** — Relation entre deux variables avec `scatterplot()`
 - [ ] **Partie 7** — Régression avec `regplot()`
 - [ ] **Partie 8** — Régression avec `lmplot()`
