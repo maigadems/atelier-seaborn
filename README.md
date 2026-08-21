@@ -69,7 +69,7 @@ Le fichier `data/mesures_capteurs.csv` contient des mesures de capteurs IoT avec
 - [x] **Partie 6** — Relation entre deux variables avec `scatterplot()`
 - [x] **Partie 7** — Régression avec `regplot()`
 - [x] **Partie 8** — Régression avec `lmplot()`
-- [ ] **Partie 9** — Corrélations et `heatmap()`
+- [x] **Partie 9** — Corrélations et `heatmap()`
 - [ ] **Partie 10** — Analyse multivariée avec `pairplot()`
 - [ ] **Partie 11** — Sauvegarde des graphiques dans `exports/`
 - [ ] **Partie 12** — Bonus
