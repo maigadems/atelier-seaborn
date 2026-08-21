@@ -62,8 +62,8 @@ Le fichier `data/mesures_capteurs.csv` contient des mesures de capteurs IoT avec
 
 - [x] **Setup** — structure du projet, installation, imports, chargement et vérification du DataFrame `df`
 - [x] **Partie 1** — Distribution d'une variable avec `histplot()`
-- [ ] **Partie 2** — Distribution d'une variable avec `kdeplot()`
-- [ ] **Partie 3** — Distribution d'une variable avec `boxplot()`
+- [x] **Partie 2** — Distribution d'une variable avec `kdeplot()`
+- [x] **Partie 3** — Distribution d'une variable avec `boxplot()`
 - [ ] **Partie 4** — Distribution d'une variable avec `violinplot()`
 - [ ] **Partie 5** — Comptage des catégories avec `countplot()`
 - [ ] **Partie 6** — Relation entre deux variables avec `scatterplot()`
